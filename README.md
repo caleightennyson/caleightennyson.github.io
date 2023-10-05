@@ -1,2 +1,1 @@
 # caleightennyson
-theme: merlot
